@@ -1,7 +1,7 @@
 ---
 name: Feature request(kor)
 about: 새 기능 추가에 대한 한글 템플릿
-title: "[DOC]"
+title: "[Suggest Feature]"
 labels: enhancement, newfeature
 assignees: ''
 
